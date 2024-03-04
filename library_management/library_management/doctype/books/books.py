@@ -5,6 +5,8 @@ import frappe
 from frappe.model.document import Document
 
 class Books(Document):
-	def validate(self):
+	def save(self):
 		if not self.name1:
-			frappe.throw("Please add Book Name")
+			
+			# frappe.throw("Creating Stock Balance: Quantity Cannot Be Less Than 0!")
+			frappe.msgprint("Please add Book Name",raise_exception=True)
