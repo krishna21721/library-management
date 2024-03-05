@@ -213,3 +213,7 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"library_management.auth.validate"
 # ]
+
+fixtures = [
+    "Books",
+]
