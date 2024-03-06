@@ -216,6 +216,6 @@ app_license = "MIT"
 
 fixtures = [
     "Books","Item",
-    {"dt":"Property Setter","filters": [["module", "=", "Library Management"]]},
+    
 
 ]
