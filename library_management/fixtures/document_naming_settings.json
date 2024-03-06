@@ -1,0 +1,15 @@
+[
+ {
+  "current_value": 0,
+  "docstatus": 0,
+  "doctype": "Document Naming Settings",
+  "modified": "2024-02-29 17:13:10.085639",
+  "name": "Document Naming Settings",
+  "naming_series_options": null,
+  "prefix": null,
+  "series_preview": null,
+  "transaction_type": null,
+  "try_naming_series": null,
+  "user_must_always_select": 0
+ }
+]

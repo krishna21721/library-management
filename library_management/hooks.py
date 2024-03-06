@@ -215,5 +215,7 @@ app_license = "MIT"
 # ]
 
 fixtures = [
-    "Books","Item"
+    "Books","Item",
+    {"dt":"Document Naming Settings","filters": [["transaction_type", "=", "Sales Invoice"]]},
+
 ]
