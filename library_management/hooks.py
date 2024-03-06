@@ -215,5 +215,5 @@ app_license = "MIT"
 # ]
 
 fixtures = [
-    "Books",
+    "Books","Item"
 ]
